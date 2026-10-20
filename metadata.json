@@ -1,0 +1,6 @@
+{
+  "name": "Rum River Coin",
+  "description": "Premier coin dealer in Anoka, Minnesota specializing in buying and selling rare coins, gold and silver bullion, paper currency, and estate appraisals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
